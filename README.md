@@ -1,1 +1,2 @@
 # Polybar
+Thanks bro
